@@ -26,3 +26,4 @@ tqdm==4.48.2
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn==19.9.0
+streamlit
