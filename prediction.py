@@ -3,13 +3,6 @@ import pandas as pd
 # Read data
 df = pd.read_csv('incident.csv', encoding='ISO-8859-1')
 
-# Removing unwanted column
-df.drop(['Number', 'State', 'Assigned To', 'Short description'], axis=1, inplace=True)
-
-# parsing date
-df['Created'] = df['Created'].apply(lambda x: x.split(' ')[0])
-df['Created'] = pd.to_datetime(df['Created'])
-
 # Dropping rows with NaN target value
 df.dropna(subset=['Assignment group', 'Description'], inplace=True)
 
