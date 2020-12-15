@@ -5,3 +5,9 @@ Almost every big and mid sized organizations utilities a support ticket system. 
 A support request is raised by users in service now for any hardware or software related issues-like procurement of new desktop, creation open office 365 account, etc. These tickets are then assigned to the appropriate technical support team by L1 engineer.
 
 Our aim is to automate the work of this L1 engineer and to assign the tickets to the appropriate technical support team.
+
+
+Please refer :-
+1. EDA.ipynb for Problem Satement, Data Cleaning and EDA
+2. aodel.py for Model Building
+3. app.py for deployment
