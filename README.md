@@ -8,6 +8,6 @@ Our aim is to automate the work of this L1 engineer and to assign the tickets to
 
 
 Please refer :-
-1. EDA.ipynb for Problem Satement, Data Cleaning and EDA
-2. aodel.py for Model Building
-3. app.py for deployment
+1. [EDA.ipynb](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/EDA.ipynb) for Problem Satement, Data Cleaning and EDA
+2. [model.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/model.py) for Model Building
+3. [app.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/app.py) for deployment
