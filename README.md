@@ -6,6 +6,7 @@ A support request is raised by users in service now for any hardware or software
 
 Our aim is to automate the work of this L1 engineer and to assign the tickets to the appropriate technical support team.
 
+App Link: https://assignment-group-prediction.herokuapp.com/
 
 Please refer :-
 1. [EDA.ipynb](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/EDA.ipynb) for Problem Satement, Data Cleaning and EDA
