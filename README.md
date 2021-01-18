@@ -12,3 +12,4 @@ Please refer :-
 1. [EDA.ipynb](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/EDA.ipynb) for Problem Satement, Data Cleaning and EDA
 2. [model.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/model.py) for Model Building
 3. [app.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/app.py) for deployment
+4. [YouTube Link](https://youtu.be/Vr6Az9jIvMg)
