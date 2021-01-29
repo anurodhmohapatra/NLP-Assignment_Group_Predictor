@@ -13,3 +13,4 @@ Please refer :-
 2. [model.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/model.py) for Model Building
 3. [app.py](https://github.com/anurodhmohapatra/NLP-Assignment_Group_Predictor/blob/master/app.py) for deployment
 4. [YouTube Link](https://youtu.be/Vr6Az9jIvMg)
+5. [Medium Article](https://anurodhmohapatra.medium.com/assignment-group-prediction-for-ticketing-tool-servicenow-f46f972c82e)
